@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1559220258714" clover="3.2.0">
+  <project timestamp="1559220258715" name="All files">
+    <metrics statements="35" coveredstatements="30" conditionals="12" coveredconditionals="10" methods="11" coveredmethods="11" elements="58" coveredelements="51" complexity="0" loc="35" ncloc="35" packages="3" files="6" classes="6"/>
+    <package name="actions">
+      <metrics statements="21" coveredstatements="16" conditionals="4" coveredconditionals="2" methods="8" coveredmethods="8"/>
+      <file name="loginAction.js" path="/Users/dorothyasiimwe/Desktop/sendit-react/src/actions/loginAction.js">
+        <metrics statements="8" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+      </file>
+      <file name="registerAction.js" path="/Users/dorothyasiimwe/Desktop/sendit-react/src/actions/registerAction.js">
+        <metrics statements="9" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+      </file>
+      <file name="types.js" path="/Users/dorothyasiimwe/Desktop/sendit-react/src/actions/types.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Landing.js" path="/Users/dorothyasiimwe/Desktop/sendit-react/src/components/Landing.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="reducers">
+      <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <file name="loginReducer.js" path="/Users/dorothyasiimwe/Desktop/sendit-react/src/reducers/loginReducer.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="signupReducer.js" path="/Users/dorothyasiimwe/Desktop/sendit-react/src/reducers/signupReducer.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="9" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+coverage/
+src/.DS_Store
+.env
+.DS_Store
+dist/
